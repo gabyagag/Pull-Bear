@@ -1,0 +1,29 @@
+.bg-panel{
+	background-color: #fff;
+	padding: 20% 0;
+}
+.bg-panel img{
+	width: 80px;
+	margin: 0 auto;
+	display: block;
+}
+
+.panel-left{
+	background-color: #f2f2f2;
+}
+.lista-menu .list{
+	margin-top:0;
+	font-size: 14px;
+}
+.lista-menu .item-title{
+	font-weight: 600;
+}
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+
+.imagen{
+	padding: 5%;
+}

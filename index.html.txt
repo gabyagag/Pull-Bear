@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sin título</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="css/framework7.min.css" rel="stylesheet">
+<link href="css/material-icons.css" rel="stylesheet">
+<link href="css/f7-icons.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div id="app">
+      <div class="statusbar"></div>
+	  
+	   <section class="panel panel-left panel-cover">
+		   <div class="bg-panel">
+			   <img src="img/WhatsApp Image 2018-12-09 at 12.41.59.jpeg" alt="">
+		   </div>
+
+		   	<article class="lista-menu">   
+			   <div class="list media-list">
+				   <ul>
+					   <li>
+						   <a href="" class="item-content item-link">
+							   <div class="item-inner">
+								   <div class="item-title-row">
+									   <div class="item-title">
+										   New
+									   </div>
+								   </div>
+							   </div>
+						   </a>
+					   </li>
+					   <li>
+						   <a href=" class="item-content item-link panel-close">
+						   		<div class="item-inner">
+								   <div class="item-title-row">
+									   <div class="item-title">
+										  Clothing
+									   </div>
+								   </div>
+							   </div>
+						   </a>
+					   </li>
+					   <li>
+						   <a href="" class="item-content item-link panel-close">
+						   		<div class="item-inner">
+								   <div class="item-title-row">
+									   <div class="item-title">
+										  Basics
+									   </div>
+								   </div>
+							   </div>
+						   </a>
+					   </li>
+				   </ul>
+			   	</div>	   
+		  	 </article>
+
+	   	</section>
+
+<div class="view view-main view-init">
+	<div data-name="home" class="page">
+
+	<nav class="navbar">
+            <div class="navbar-inner"> 
+			  <div class="left">
+				  <a href="#" class="icon-only link panel-open" data-panel="left">
+					  <i class="material-icons">menu</i>
+				  </a>
+			  </div>
+			  <div class="title"><img src=""img/WhatsApp Image 2018-12-09 at 12.41.59.jpeg" alt=""></div>
+			  <div class="right><i class="material-icons">notifications</i></div>
+		<div class="subnavbar">
+        <form class="searchbar searchbar-init" data-searchbar-container=".list" data-search-in=".item-content">
+          <div class="searchbar-inner">
+            <div class="searchbar-input-wrap">
+              <input type="search" placeholder="Search">
+              <i class="searchbar-icon"></i>
+              <span class="input-clear-button"></span>
+            </div>
+            <span class="searchbar-disable-button">Cancel</span>
+          </div>
+        </form>
+      </div>
+            </div>
+          </nav>
+
+<section class="page-content bg-blue">
+	<div class="block">
+ 		<div class="imagen">
+			<img src="img/pull-bear-sale-offer-offer-22462" alt="promoción" class="img-fluid">
+		</div>
+	</div>
+	
+	<div class="swiper-container swiper-init" data-slides-per-view="1" data-pagination='{"el": ".swiper-pagination"}'>
+    <div class="swiper-wrapper">
+        <!-- Slides -->
+        <div class="swiper-slide"> <img src="img/WhatsApp Image 2018-12-09 at 12.42.27 (1)" alt="hamburg" class=" img-fluid"></div>
+        <div class="swiper-slide"><img src="img/WhatsApp Image 2018-12-09 at 12.42.27" alt="hamburg" class="img-fluid"></div>
+        <div class="swiper-slide"><img src="img/WhatsApp Image 2018-12-09 at 12.42.28 (1)" alt="hamburg" class="img-fluid"></div>
+    </div>
+    <div class="swiper-pagination"></div>
+	</div>
+
+	<div class="imagen">
+		<img src="img/02_Man_Black" alt="black" class="img-fluid">
+	</div>
+</body>
+</html>
