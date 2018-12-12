@@ -1,0 +1,110 @@
+.bg-panel{
+	background-color: #f7f7f7;
+}
+.bg-panel img{
+	width: 120px;
+	margin: 0 auto;
+	display: block;
+}
+
+.panel-left{
+	background-color: #f2f2f2;
+}
+
+.navbar-inner{
+	align-content: center;
+	background-color: rgba(247,247,247,1.00);
+	color: rgba(0,0,0,1.00);
+}
+.title img{
+	width: 120px;
+	margin: 0 auto;
+	display: block;
+}
+.navbar .right{
+	padding-right: 25px;
+}
+.navbar .title{
+	text-align: center;
+	font-weight: 600;
+	padding-left: 2px;
+}
+
+.toolbar-inner{
+	background-color: rgba(255,255,255,1.00);
+}
+
+.lista-menu .list{
+	margin-top:0;
+	font-size: 14px;
+}
+.lista-menu .item-title{
+	font-weight: 600;
+}
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+
+.imagen{
+	padding: 5%;
+}
+
+.texto{
+	padding-left: 8px;  
+	text-align: center;
+}
+
+.home .block{
+	margin: 5px 0;
+}
+
+.home .block.btn{
+	padding-top: 20px;
+	margin-bottom: 70px;
+}
+
+/*Basics*/
+.img-basic{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-left{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+	font-weight: lighter;
+}
+
+.top-right{
+  position: absolute;
+  top: 8px;
+  right: 16px;
+	font-weight: lighter;
+}
+
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	font-size: 28px;
+}
+
+/*New*/
+.new{
+	background-color: #fff;
+	margin-bottom: 100px;
+}
+
+.content{
+	text-align: center;
+}	
+
+/*account*/
+.account{
+	margin-bottom: 50px;
+}	
